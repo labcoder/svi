@@ -21,28 +21,24 @@ Appends the &lt;text&gt; at the end of the line. For example:
 Ahello jim 
 appends hello jim to all lines in the file. The &lt;text&gt; can be maximally 80 characters.
 </blockquote>
-<br>
 <strong>I&lt;text&gt;</strong>
 <blockquote>
 Inserts the &lt;text&gt; at the start of the line. For example:
 /blah/Ineedle noddle noo 
 inserts needle noddle noo at the start of all lines that contain blah. The &lt;text&gt; can be maximally 80 characters.
 </blockquote>
-<br>
 <strong>O&lt;text&gt;</strong>
 <blockquote>
 Inserts the &lt;text&gt; on a new line before the current line. For example:
 1,1/OThe Title 
 Inserts a new line before the first line in the file, containing the text The Title. The &lt;text&gt; can be maximally 80 characters. The new line is not put through the editing process.
 </blockquote>
-<br>
-d
+<strong>d</strong>
 <blockquote>
 Deletes the line from the file. For example:
 3,6/d 
 deletes lines 3 to 6 inclusive.
 </blockquote>
-<br>
 <strong>s/&lt;old text&gt;/&lt;new text&gt;/</strong>
 <blockquote>
 Replaces the first occurence of &lt;old text&gt;, in the line, with &lt;new text&gt;. For example:
@@ -84,7 +80,7 @@ A : Appended to all
 </pre>
 
 #####Run
-<pre>./svi commands.txt < example.txt</pre>
+<pre>./svi commands.txt %lt; example.txt</pre>
 
 #####Sample Output
 <pre>

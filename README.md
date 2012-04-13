@@ -1,7 +1,7 @@
 #svi - a stream editor
 
 ##What is svi
-It modifies input according to a list of edit commands that are given in a file specified as the command line argument. The edited standard input is output to standard output. Each line of input, and output after editing, will be maximally 256 characters long.
+It modifies input according to a list of edit commands that are given in a file specified as the command line argument. The edited standard input is output to standard output. Each line of input, and output after editing, will be maximally 256 characters long.<br>
 <em>Similar to the `sed` command found on UNIX machines</em>
 
 ##Commands

@@ -1,0 +1,11 @@
+1 To have text prepended
+2 To have text prepended
+3 To have text prepended
+4 Unmodified except appended text
+5 Unmodified except appended text
+6 Unmodified except appended text
+7 This is one line for substitution
+8 This is one line for substitution
+9 This is to be deleted
+10 This is to be deleted
+11 The last line of the file

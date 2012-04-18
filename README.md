@@ -80,7 +80,7 @@ A : Appended to all
 </pre>
 
 #####Run
-<pre>./svi commands.txt %lt; example.txt</pre>
+<pre>./svi commands.txt &lt; example.txt</pre>
 
 #####Sample Output
 <pre>

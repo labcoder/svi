@@ -95,6 +95,3 @@ Prepended to 1,2 and 3 :3 To have text prepended : Appended to all
 8 This has been substituted on a line for substitution : Appended to all
 11 The last line of the file : Appended to all
 </pre>
-
-##Contact
-If you have any questions, send me an email to oscar@labcoder.com

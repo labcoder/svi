@@ -1,5 +1,7 @@
 #svi - a stream editor
 
+#### NOTE: It has come to my attention that some people (a lot, actually) are submitting this code for an assignment in a class. I can understand that, as my code is awesome, and I hope that it can serve you as an example, but DO NOT use my code to submit it as your own. It is not your own. It is mine. And you will probably get a zero and be considered a cheater. Please keep that in mind.
+
 ##What is svi
 It modifies input according to a list of edit commands that are given in a file specified as the command line argument. The edited standard input is output to standard output. Each line of input, and output after editing, will be maximally 256 characters long.<br>
 <em>Similar to the `sed` command found on UNIX machines</em>
